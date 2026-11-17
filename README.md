@@ -27,6 +27,15 @@ I am a Software Developer based in Germany, specializing in building scalable ar
 
 ---
 
+### 🌍 Languages I Speak
+
+![Arabic](https://img.shields.io/badge/Arabic-Native-0D1117?style=for-the-badge)
+![English](https://img.shields.io/badge/English-0D1117?style=for-the-badge)
+![German](https://img.shields.io/badge/German-0D1117?style=for-the-badge)
+![Turkish](https://img.shields.io/badge/Turkish-0D1117?style=for-the-badge)
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 **Languages:**
